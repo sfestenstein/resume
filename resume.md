@@ -56,7 +56,7 @@ Results-driven Software Engineer with over 25 years of experience designing high
 
 - Developed and delivered a nine-part C++ curriculum for new software engineers. Conducted the curriculum in front of hundreds of participants.
 - Created a two-part course on OpenGL and Qt Framework, enhancing team capabilities in GUI development.
-- Presented four advanced C++ lectures, including "CMake Project Management" and "Distributed Computing with ZeroMQ," to audiences of hundreds of engineers.
+- Presented advanced C++ lectures: "CMake Project Management" and "Distributed Computing with ZeroMQ." 
 
 ## Clearance
 
