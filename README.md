@@ -1,6 +1,6 @@
 # Steven Festenstein – Software Engineer, Technical Trainer
 
-[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](linkedin.com/in/steven-festenstein-75895a50)
+[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
 
 ## Overview
 
