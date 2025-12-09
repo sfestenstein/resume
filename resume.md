@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Steven Festenstein <br> Software Engineer, Technical Trainer</h1>
+<h1 style="text-align:center;"> Steven Festenstein <br> Software Engineer, Technical Traine <br> Syracuse NY</h1>
 
 [steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Results-driven Software Engineer with over 25 years of experience designing high-performance applications using C++, Java, and Python. Specializes in object-oriented programming, GUI development, Real Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering real-time software solutions and leading technical training for engineering teams.
+Staff Software Engineer with over 25 years of experience designing high-performance applications using C++, Java, and Python. Specializes in object-oriented programming, GUI development, Real Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering real-time software solutions and leading technical training for engineering teams.
 
 ## Critical Skills
 
@@ -27,7 +27,7 @@ Results-driven Software Engineer with over 25 years of experience designing high
 
 ## Experience
 
-#### Staff Software Engineer, Lockheed Martin, October 1996 to Present
+#### Staff Software Engineer, Lockheed Martin - Syracuse, October 1996 to Present
 
 *SEWIP Block 2*
 - HMI development by porting legacy Java code to C++/Qt. Modernized the build process using CMake and updated developer tools to industry standards.  Also updated the embedded backend in VxWorks to assist with calibration and report system health.
@@ -38,10 +38,8 @@ Results-driven Software Engineer with over 25 years of experience designing high
 *Shipboard Panoramic Electro-Optical Infra-Red (SPEIR) - HMI Lead*
 - Led a team of 4 engineers to develop front-end software for the SPEIR program, using Qt framework and C++ on RHEL 8.  Employed video streaming technology to display multiple videos from various imaging sensors on Naval Surface Vessels.  Developed an OpenGL Video Player to render streaming videos in H264 and H265 format.  Developed middleware using ZeroMQ and Google Protocol Buffers to interact with backend. 
 
-*BLQ-10 OMI Working Group Software Lead*
-- Lead SW Engineer for an Operator Machine Interface (OMI) Working group to develop next-generation user interfaces from scratch.  Took responsibility of all aspects of SW Development.  Led a team to implement SW features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared SW for customer demonstration and feedback every 6-8 weeks.
-
-*BLQ-10 Electronic Warfare System*
+*BLQ-10 (Subsurface Electronic Warfar) *
+- OMI Working Group Software Lead, developed next-generation user interfaces from scratch.  Took responsibility of all aspects of SW Development.  Led a team to implement SW features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared SW for customer demonstration and feedback every 6-8 weeks.
 - Developed front-end software in Java Swing and later in C++ with the Qt Framework.  Employed OpenGL to render large data sets quickly.  Used DDS for inter process communication.  Interfaced with multiple SQL databases.  Engaged in many aspects of Electronic Warfare.
 
 *Further Experience on Request*
@@ -58,7 +56,8 @@ Results-driven Software Engineer with over 25 years of experience designing high
 - Presented advanced C++ lectures: "CMake Project Management" and "Distributed Computing with ZeroMQ." 
 
 ## Clearance
-Top Secret (Interim) Clearance, U.S. Government, held since 1996 (last renewed 2023).
+- Active Secret Clearance, U.S. Government, held since 1996 (last renewed 2023).
+- Top Secret (Interim) Clearance, U.S. Government, Granted in 2024.
 
 ## Education
 - **Bachelor of Science in Electrical Engineering (Signal Processing)**  
