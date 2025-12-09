@@ -38,7 +38,7 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 *Shipboard Panoramic Electro-Optical Infra-Red (SPEIR) - HMI Lead*
 - Led a team of 4 engineers to develop front-end software for the SPEIR program, using Qt framework and C++ on RHEL 8.  Employed video streaming technology to display multiple videos from various imaging sensors on Naval Surface Vessels.  Developed an OpenGL Video Player to render streaming videos in H264 and H265 format.  Developed middleware using ZeroMQ and Google Protocol Buffers to interact with backend. 
 
-*BLQ-10 (Subsurface Electronic Warfar) *
+*BLQ-10 (Subsurface Electronic Warfar)*
 - OMI Working Group Software Lead, developed next-generation user interfaces from scratch.  Took responsibility of all aspects of SW Development.  Led a team to implement SW features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared SW for customer demonstration and feedback every 6-8 weeks.
 - Developed front-end software in Java Swing and later in C++ with the Qt Framework.  Employed OpenGL to render large data sets quickly.  Used DDS for inter process communication.  Interfaced with multiple SQL databases.  Engaged in many aspects of Electronic Warfare.
 
