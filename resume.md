@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Steven Festenstein <br> Software Engineer, Technical Traine <br> Syracuse NY</h1>
+<h1 style="text-align:center;"> Steven Festenstein <br> Software Engineer, Technical Trainer <br> Syracuse NY</h1>
 
 [steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
 
