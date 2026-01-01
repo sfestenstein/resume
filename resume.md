@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Steven Festenstein <br> Software Engineer, Technical Trainer <br> Syracuse NY</h1>
+<h1 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY, (315)-288-0885</span></h1>
 
 [steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Staff Software Engineer with over 25 years of experience designing high-performance applications using C++, Java, and Python. Specializes in object-oriented programming, GUI development, Real Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering real-time software solutions and leading technical training for engineering teams.
+Staff Software Engineer with over 25 years of experience designing high-performance applications using C++, Java, and Python. Specializes in object-oriented programming, GUI development, and RF Systems.  Experience with Real Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering quality software solutions and leading technical training for engineering teams.
 
 ## Critical Skills
 
@@ -22,7 +22,7 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 - Git, Subversion, Gitlab, Atlassian toolsuite.
 - Scrum-based Agile development methodologies.
 - Technical Trainer: developed and presented training modules to large audiences.
-- React, Javascript, Typescript, HTML, CSS. 
+- MERN Development (MongoDB, Express, React, NodeJS) 
 
 
 ## Experience
