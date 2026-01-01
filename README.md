@@ -13,16 +13,16 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 - Expert in object-oriented programming with C++.
 - Skilled in GUI development using C++ and QML with the Qt Framework.
 - Proficient in designing distributed applications using ZeroMQ and Google Protocol Buffers.
-- GCC, G++, Clang, CMake QMake and GNU Make for cross-platform development.
+- GCC, G++, Clang, CMake, QMake, and GNU Make for cross-platform development.
 - Long history of working on RF systems.
-- Embedded Development with VxWorks, LynxOS, and Petalinux.
-- DDS and CORBA for distributed system on Linux, Windows, Lynxos, and VxWorks.
+- Embedded Development with VxWorks, LynxOS, and PetaLinux.
+- DDS and CORBA for distributed systems on Linux, Windows, Lynxos, and VxWorks.
 - Java development with expertise in JavaFX and Swing for GUI applications.
 - .NET, C#, Java, and Python for diverse software solutions.
-- Git, Subversion, Gitlab, Atlassian toolsuite.
+- Git, Subversion, GitLab, Atlassian tool suite.
 - Scrum-based Agile development methodologies.
 - Technical Trainer: developed and presented training modules to large audiences.
-- MERN Development (MongoDB, Express, React, NodeJS) 
+- MERN Development (MongoDB, Express, React, Node.js) 
 
 
 ## Experience
@@ -38,9 +38,9 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 *Shipboard Panoramic Electro-Optical Infra-Red (SPEIR) - HMI Lead*
 - Led a team of 4 engineers to develop front-end software for the SPEIR program, using Qt framework and C++ on RHEL 8.  Employed video streaming technology to display multiple videos from various imaging sensors on Naval Surface Vessels.  Developed an OpenGL Video Player to render streaming videos in H264 and H265 format.  Developed middleware using ZeroMQ and Google Protocol Buffers to interact with backend. 
 
-*BLQ-10 (Subsurface Electronic Warfar)*
+*BLQ-10 (Subsurface Electronic Warfare)*
 - OMI Working Group Software Lead, developed next-generation user interfaces from scratch.  Took responsibility of all aspects of SW Development.  Led a team to implement SW features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared SW for customer demonstration and feedback every 6-8 weeks.
-- Developed front-end software in Java Swing and later in C++ with the Qt Framework.  Employed OpenGL to render large data sets quickly.  Used DDS for inter process communication.  Interfaced with multiple SQL databases.  Engaged in many aspects of Electronic Warfare.
+- Developed front-end software in Java Swing and later in C++ with the Qt Framework.  Employed OpenGL to render large data sets quickly.  Used DDS for inter-process communication.  Interfaced with multiple SQL databases.  Engaged in many aspects of Electronic Warfare.
 
 *Further Experience on Request*
 
@@ -57,7 +57,7 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 
 ## Clearance
 - Active Secret Clearance, U.S. Government, held since 1996 (last renewed 2023).
-- Top Secret (Interim) Clearance, U.S. Government, Granted in 2024.
+- Top Secret (Interim) Clearance, U.S. Government, granted in 2024.
 
 ## Education
 - **Bachelor of Science in Electrical Engineering (Signal Processing)**  
