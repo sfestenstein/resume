@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY, (315)-288-0885</span></h1>
+<h2 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY, (315)-288-0885</span></h2>
 
 [steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
 
@@ -22,7 +22,8 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 - Git, Subversion, GitLab, Atlassian tool suite.
 - Scrum-based Agile development methodologies.
 - Technical Trainer: developed and presented training modules to large audiences.
-- MERN Development (MongoDB, Express, React, Node.js) 
+- MERN Full Stack Development (MongoDB, Express, React, Node.js) 
+- Agentic App Development: https://www.football-squares.com
 
 
 ## Experience
