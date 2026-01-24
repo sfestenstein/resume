@@ -1,6 +1,10 @@
 <h2 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY, (315)-288-0885</span></h2>
 
-[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein-75895a50](https://linkedin.com/in/steven-festenstein-75895a50)
+<div align="center">
+
+[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein](https://linkedin.com/in/steven-festenstein)
+
+</div>
 
 ---
 
